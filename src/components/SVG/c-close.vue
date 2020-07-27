@@ -1,0 +1,27 @@
+<template>
+  <svg
+    class="c-close"
+    xmlns="http://www.w3.org/2000/svg"
+    width="24.601"
+    height="24.601"
+    viewBox="0 0 29.601 29.601"
+  >
+    <defs />
+    <g transform="translate(-199.131 -356.458)">
+      <circle class="a" cx="14.05" cy="14.05" r="14.05" transform="translate(199.881 357.208)" />
+      <g transform="translate(209.782 367.109)">
+        <path class="a" d="M225.623,374.431,217.1,382.95" transform="translate(-217.104 -374.431)" />
+        <path class="a" d="M217.1,374.431l8.519,8.519" transform="translate(-217.104 -374.431)" />
+      </g>
+    </g>
+  </svg>
+</template>
+<style scoped>
+.c-close .a {
+  fill: none;
+  stroke: var(--system-icons-color);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1px;
+}
+</style>
